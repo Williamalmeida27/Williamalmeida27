@@ -9,8 +9,8 @@
 
 <div align="center">
   <a href="https://github.com/Williamalmeida27">
-  <img height="200px" width="450px" src="https://github-readme-stats.vercel.app/api?username=Williamalmeida27&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
-	<img height="200px" width="310px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Williamalmeida27&layout=compact&langs_count=7&theme=codeSTACKr"/>
+  <img height="200px" width="350px" src="https://github-readme-stats.vercel.app/api?username=Williamalmeida27&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
+	<img height="200px" width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Williamalmeida27&layout=compact&langs_count=7&theme=codeSTACKr"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="JS-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
