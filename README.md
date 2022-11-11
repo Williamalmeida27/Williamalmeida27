@@ -1,15 +1,16 @@
 ## Olá eu sou William, estudante e entusiasta da tecnologia!
 
-° 👨🏾‍🎓Estudando: JavaScript, Angular e .Net
-° 🎮hobby: Jogar com amigos.
-° 💑Estado civil: Casado
-° 😀Pronomes: Ele/Dele
-° 🐾Tutor do Lucky
+| 👨🏾‍🎓Estudando: JavaScript, Angular e .Net	|
+| 🎮hobby: Jogar com amigos	|
+
+| 💑Estado civil: Casado	|
+| 😀Pronomes: Ele/Dele		|
+| 🐾Tutor do Lucky				|
 
 <div align="center">
   <a href="https://github.com/Williamalmeida27">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Williamalmeida27&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Williamalmeida27&layout=compact&langs_count=7&theme=codeSTACKr"/>
+  <img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api?username=Williamalmeida27&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
+	<img height="180em" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Williamalmeida27&layout=compact&langs_count=7&theme=codeSTACKr"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="JS-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -29,7 +30,6 @@
   <a href = "mailto:jordan.wa18@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/william-almeida-santos-187a56113" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://discord.gg/bPDKGDeG" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
- 
-  ![Snake animation](https://github.com/Williamalmeida27/Williamalmeida27/blob/output/github-contribution-grid-snake.svg)
+  
  
 </div>
